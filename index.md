@@ -4,9 +4,9 @@ The newest executor for roblox
 
 Undetectable fast executing
 
-### Markdown
+### Downloads and support
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The executor is currently in development but you can reach out to us [here] (https://discord.gg/pn5mcxzZD9)
 
 ```markdown
 Syntax highlighted code block
