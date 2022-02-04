@@ -19,7 +19,7 @@ inform us of your problems in the discord above
 
 ### Compared to KRNL
 
-![epic spreadsheet](/LustNSDev.github.io/spreadsheet.png)
+<img src="LustNSDev.github.io/spreadsheet.png" alt="Very Cool">
 
 ### Scripts and Credits:
 
