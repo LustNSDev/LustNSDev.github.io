@@ -19,7 +19,7 @@ inform us of your problems in the discord above
 
 ### Compared to KRNL
 
-<img src="LustNSDev.github.io/spreadsheet.png" alt="Very Cool">
+<img src="LustNSDev.github.io/spreadsheet.PNG" alt="Very Cool">
 
 ### Scripts and Credits:
 
