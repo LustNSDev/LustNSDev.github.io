@@ -11,27 +11,18 @@ The executor is currently in development but you can reach out to us [here](http
 ```markdown
 download links:
 
-# (insert zip download here) .zip
-## (insert bootstrap download here) bootstapper
-### inform us of your problems in the discord above
+(insert zip download here) .zip
+(insert bootstrap download here) bootstapper
+inform us of your problems in the discord above
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+special thanks to [Demo#1345](https://discord.gg/fq25ckNdWH) for letting us use their script
+(remote spy made by [exxtremestuffs](https://github.com/exxtremestuffs))
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Compared to KRNL
 
-### Jekyll Themes
+![epic spreadsheet](/LustNSDev.github.io/spreadsheet.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LustNSDev/LustNSDev.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Enjoy
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+krnl no more
