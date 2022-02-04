@@ -6,14 +6,14 @@ Undetectable fast executing
 
 ### Downloads and support
 
-The executor is currently in development but you can reach out to us [here] (https://discord.gg/pn5mcxzZD9)
+The executor is currently in development but you can reach out to us [here](https://discord.gg/pn5mcxzZD9)
 
 ```markdown
-Syntax highlighted code block
+download links:
 
-# Header 1
-## Header 2
-### Header 3
+# (insert zip download here) .zip
+## (insert bootstrap download here) bootstapper
+### inform us of your problems in the discord above
 
 - Bulleted
 - List
