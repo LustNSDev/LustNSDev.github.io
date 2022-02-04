@@ -15,13 +15,23 @@ download links:
 (insert bootstrap download here) bootstapper
 inform us of your problems in the discord above
 
-special thanks to [Demo#1345](https://discord.gg/fq25ckNdWH) for letting us use their script
-(remote spy made by [exxtremestuffs](https://github.com/exxtremestuffs))
 ```
 
 ### Compared to KRNL
 
 ![epic spreadsheet](/LustNSDev.github.io/spreadsheet.png)
+
+### Scripts and Credits:
+
+1. [DarkDex](https://gist.github.com/DinosaurXxX/b757fe011e7e600c0873f967fe427dc2)
+2. [SimpleSpy](https://github.com/exxtremestuffs/SimpleSpySource/blob/master/SimpleSpy.lua)
+3. [GameSense](https://v3rmillion.net/showthread.php?tid=898830)
+4. [Unnamed ESP](https://github.com/ic3w0lf22/Unnamed-ESP)
+5. [Infinite yield](https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source)
+6. [CMD-X](https://github.com/CMD-X/CMD-X/blob/master/Source)
+7. [DustWare](https://discord.gg/fq25ckNdWH)
+8. [OwlHub](https://github.com/Meowflow/roblox-hacks/blob/main/Owl%20Hub)
+9. [Vape v4](https://7granddadpgn.github.io)
 
 ### Enjoy
 
